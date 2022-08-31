@@ -1,17 +1,49 @@
-## 🔮 Bola de Cristal
-Projeto desenvolvido durante a maratona explorer feita pela Rocketseat.
-## Screenshot
-#### Desktop
-![App Screenshot](https://i.imgur.com/9yo3q5G.png)
+<h1 align="center">
+  🔮 Bola de Cristal
+</h1>
+<p align="center">Consulte o seu destino com a revelação da bola de cristal.</p>
 
-## Acessar o site
+<br>
 
-- [Link do deploy](https://carlosaaraujo.github.io/bolaDeCristal/)
+<p align="center">
+  <img alt="Go Restaurant" src="https://i.imgur.com/9yo3q5G.png" width="100%">
+</p>
 
-## Ferramentas
+## 📖 Aprendizado
+- [x] **HTML**: Boas práticas de estruturação de tags.
 
-**Front-end:** HTML, CSS e JS
+- [x] **CSS**: Efeitos para a página.
 
-## Aprendizados
+- [x] **JavaScript**: Usado para criar a lógica de revelar o destino.
 
-Durante a maratona foi feita a criação partindo do zero do layout usando: HTML e CSS para criação do corpo do projeto; com o JavaScript a lógica por trás para acessar um índice específico do array e a como manipular informações do HTML usando a DOM.
+## 🚀 Tecnologias
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/css_website_layout.asp)
+- [JavaScript ](https://www.javascript.com/)
+
+## :muscle: Contribuir
+
+Faça o `fork` e clone o projeto a partir do seu usuário.
+
+```bash
+# Clonando projeto
+$ git clone https://github.com/SEU-NOME-DE-USUARIO/goRestaurant.git
+
+# Criando/Acessando o novo branch
+$ git checkout -b minha-alteracao
+
+# Adicionando os arquivos alterados
+$ git add .
+
+# Criando commit e a mensagem
+$ git commit -m "Corrigindo...."
+
+# Enviando alterações para o brach
+$ git push origin minha-alteracao
+```
+Você deve navegar até o seu repositório onde fez o fork e clicar no botão *New pull request* no lado esquerdo da página.
+
+---
+
+Feito com ♥ by [Carlos Araújo](https://github.com/carlosaaraujo)
+
